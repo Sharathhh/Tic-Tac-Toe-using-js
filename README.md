@@ -11,3 +11,30 @@
 <li>Interactive UI: Clear and responsive design for easy gameplay.</li>
 <li>Restart option: Restart the game after a win, loss, or tie.</li>
 <li>Winner/Tie Detection: Highlights the winning combination or declares a tie</li></ul></p><br>
+<h1>How to Play</h1><br>
+<p><ul>
+  <li>The game starts with an empty 3x3 grid.</li>
+<li>Two players take turns to place their symbols (X and O) in one of the empty cells.</li>
+<li>The first player to align three symbols (horizontally, vertically, or diagonally) wins the game and display their name.</li>
+<li>If all cells are filled without a winner, the game ends in a tie.</li> </ul></p><br>
+<h1>Installation</h1><br>
+<ol>
+  <li>Clone the repository: <br>
+git clone https://github.com/Sharathhh/Tic-Tac-Toe-using-js.git
+cd Tic-Tac-Toe-using-js
+</li>
+<li>Open the game:<br>
+<ul>
+  <li>For Web Version: Open index.html in your browser.</li>
+  <li>For Console/CLI Version: Run the script using your preferred programming language.</li>
+</ul><br>
+<h1>Usage</h1><br>
+<h3>Web Version</h3>
+<ol>
+<li>Open the game in your browser.</li>
+<li>Click on an empty cell to place your symbol.</li>
+<li>Follow the prompts to restart or play again.</li>
+</ol>
+
+
+
