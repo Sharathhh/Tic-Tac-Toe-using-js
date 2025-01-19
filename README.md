@@ -20,7 +20,9 @@
 <h1>Installation</h1><br>
 <ol>
   <li>Clone the repository: <br>
+    ```bash
 git clone https://github.com/Sharathhh/Tic-Tac-Toe-using-js.git<br>
+    ```
 cd Tic-Tac-Toe-using-js
 </li>
 <li>Open the game:<br>
