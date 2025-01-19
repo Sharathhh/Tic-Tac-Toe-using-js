@@ -19,9 +19,11 @@
 <li>If all cells are filled without a winner, the game ends in a tie.</li> </ul></p><br>
 <h1>Installation</h1><br>
 <ol>
-  <li>Clone the repository: <br>
+  <li>Clone the repository: 
+    
     ```bash
 git clone https://github.com/Sharathhh/Tic-Tac-Toe-using-js.git<br>
+    
     ```
 cd Tic-Tac-Toe-using-js
 </li>
