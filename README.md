@@ -21,9 +21,8 @@
 <ol>
   <li>Clone the repository: 
     
-    ```bash
-git clone https://github.com/Sharathhh/Tic-Tac-Toe-using-js.git<br>
-    
+    ```bash    
+    git clone https://github.com/Sharathhh/Tic-Tac-Toe-using-js.git<br>
     ```
 cd Tic-Tac-Toe-using-js
 </li>
