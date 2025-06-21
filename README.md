@@ -17,6 +17,10 @@
 <li>Two players take turns to place their symbols (X and O) in one of the empty cells.</li>
 <li>The first player to align three symbols (horizontally, vertically, or diagonally) wins the game and display their name.</li>
 <li>If all cells are filled without a winner, the game ends in a tie.</li> </ul></p><br>
+
+<h1>Demo</h1> :
+https://sharathhh.github.io/Tic-Tac-Toe-using-js/
+
 <h1>Installation</h1><br>
 <ol>
   <li>Clone the repository: 
